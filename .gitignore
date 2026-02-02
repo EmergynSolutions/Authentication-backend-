@@ -19,5 +19,4 @@ build/
 Thumbs.db
 
 # editor
-.vscode/
 .idea/
